@@ -1,4 +1,4 @@
-- 👋 PowerShell scripts for Microsoft Intune, Microsoft Configuration Manager, and so on
+- 👋 PowerShell scripts for Microsoft Configuration Manager, Microsoft Intune, and so on
 
 <!---
 holbs/holbs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
