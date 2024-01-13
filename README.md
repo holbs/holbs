@@ -1,4 +1,4 @@
-- 👋 I’m @holbs, and I do PowerShell
+- 👋 PowerShell scripts for Microsoft Intune, Microsoft Configuration Manager, and so on
 
 <!---
 holbs/holbs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
